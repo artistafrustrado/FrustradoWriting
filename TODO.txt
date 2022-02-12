@@ -1,0 +1,10 @@
+exporters:
+- html
+- pdf
+- odt?
+- Mediawiki
+- LaTex
+
+Beat Sheet page
+scenes page - how scenes connect to the beats of the beat sheet?
+
